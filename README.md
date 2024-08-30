@@ -3,3 +3,7 @@
 
 # icons website 
 ### https://flowbite.com/icons/
+
+
+# taildwind css 
+### https://tailwindcss.com/docs/guides/sveltekit
