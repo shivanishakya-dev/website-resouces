@@ -11,3 +11,6 @@
 
 # youtube video downloads
 ##https://yt1ss.pro/eu158/
+
+# interviews quitions
+https://www.geeksforgeeks.org/interview-prep/front-end-developer-interview-questions/
